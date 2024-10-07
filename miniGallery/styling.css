@@ -1,0 +1,19 @@
+
+.container h2 {
+    margin-bottom: 50px; 
+    text-align: center;
+
+}
+
+.images {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+    gap: 40px 30px; 
+}
+
+.images img {
+    width: 400px; 
+    height: auto; 
+}
+
